@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="https://github.com/pollysobased/pollysobased/blob/main/pbd-logo.svg" width="48"/>
+  <br/><br/>
   <sup>
     hi, i'm pollysobased 👋<br/>
     developer & designer from russia<br/>
